@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-cout<< "namaste Git"<<endl;
+cout<< "namaste Git new upadte"<<endl;
 return 0;
 
 }
